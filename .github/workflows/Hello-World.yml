@@ -1,6 +1,6 @@
 name: Hello World Workflow
 
-on: [push]
+runs-on: self-hosted
 
 jobs:
   hello_world_job:
